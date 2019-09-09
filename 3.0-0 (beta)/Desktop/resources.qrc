@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/icon.svg</file>
+        <file>img/icon/setting.png</file>
+        <file>img/icon/settingPort.png</file>
+        <file>img/icon/setZero.png</file>
+        <file>img/icon/save.png</file>
+        <file>img/icon/open.png</file>
+        <file>img/icon/lang.png</file>
+        <file>img/icon/help.png</file>
+        <file>img/icon/begin.png</file>
+        <file>img/icon/flags/us.png</file>
+        <file>img/icon/flags/ua.png</file>
+        <file>img/icon/saveToCNC.png</file>
+        <file>img/icon/openBin.png</file>
+        <file>img/icon/exit.png</file>
+        <file>img/icon/connect.png</file>
+        <file>img/icon/openHistory.png</file>
+        <file>img/icon/file.png</file>
+        <file>img/icon/update.png</file>
+        <file>img/icon/port.png</file>
+        <file>img/icon/closeImage.png</file>
+        <file>img/logo.png</file>
+        <file>language/uk.qm</file>
+        <file>language/en.qm</file>
+    </qresource>
+</RCC>

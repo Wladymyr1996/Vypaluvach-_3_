@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Vypaluvach_3_-cache)(type Legacy)(uri /home/volodya/KiCad/Vypaluvach_3_/Vypaluvach_3_-cache.lib)(options "")(descr ""))
+  (lib (name modules)(type Legacy)(uri /home/volodya/KiCad/Vypaluvach_3_/modules.lib)(options "")(descr ""))
+)
