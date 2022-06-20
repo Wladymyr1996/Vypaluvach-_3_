@@ -15,6 +15,16 @@
 */
 
 #include "settingswindow.h"
+#include "data.h"
+#include <QIcon>
+#include <QGroupBox>
+#include <QComboBox>
+#include <QDoubleValidator>
+#include <QCheckBox>
+#include <QLineEdit>
+#include <QLabel>
+#include <QFormLayout>
+#include <QPushButton>
 
 TSettingsWindow::TSettingsWindow(QWidget *parent) {
 	setWindowIcon(QIcon("://img/icon/setting.png"));

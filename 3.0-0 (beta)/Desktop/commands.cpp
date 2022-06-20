@@ -15,6 +15,7 @@
 */
 
 #include "commands.h"
+#include <QFile>
 
 QColor TCommands::getColorFromPause(uint16_t pause, int colorCount) {
 	QColor Uber;
@@ -225,8 +226,7 @@ QPixmap TCommands::getImage() {
 }
 
 QByteArray TCommands::getByteArray() {
-	QByteArray binCommands;
-	char c[5];
+    QByteArray binCommands;
 
 	for (int i = 0; i < commandList->count(); i++) {
 		binCommands.append(getByteArrayFromCommand(commandList->at(i)));
